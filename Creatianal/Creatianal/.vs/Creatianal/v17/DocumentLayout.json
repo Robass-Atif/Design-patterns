@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|c:\\users\\mohammad robass\\desktop\\my work\\design pattern\\creatianal\\creatianal\\creatianal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|solutionrelative:creatianal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\creatianal\\singleton\\egersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|solutionrelative:creatianal\\singleton\\egersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\creatianal\\singleton\\lazysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA382EBA-9DB4-4CEE-A2DC-29EFC2274B68}|Creatianal\\Creatianal.csproj|solutionrelative:creatianal\\singleton\\lazysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "egerSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Singleton\\egerSingleton.cs",
+              "RelativeDocumentMoniker": "Creatianal\\Singleton\\egerSingleton.cs",
+              "ToolTip": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Singleton\\egerSingleton.cs",
+              "RelativeToolTip": "Creatianal\\Singleton\\egerSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T06:04:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lazysingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Singleton\\lazysingleton.cs",
+              "RelativeDocumentMoniker": "Creatianal\\Singleton\\lazysingleton.cs",
+              "ToolTip": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Singleton\\lazysingleton.cs",
+              "RelativeToolTip": "Creatianal\\Singleton\\lazysingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:53:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Program.cs",
+              "RelativeDocumentMoniker": "Creatianal\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammad Robass\\Desktop\\My Work\\Design pattern\\Creatianal\\Creatianal\\Creatianal\\Program.cs",
+              "RelativeToolTip": "Creatianal\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:18:28.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
